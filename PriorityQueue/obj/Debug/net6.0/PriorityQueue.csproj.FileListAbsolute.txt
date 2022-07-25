@@ -1,0 +1,15 @@
+D:\WorkspaceCSharp\PriorityQueue\PriorityQueue\bin\Debug\net6.0\PriorityQueue.exe
+D:\WorkspaceCSharp\PriorityQueue\PriorityQueue\bin\Debug\net6.0\PriorityQueue.deps.json
+D:\WorkspaceCSharp\PriorityQueue\PriorityQueue\bin\Debug\net6.0\PriorityQueue.runtimeconfig.json
+D:\WorkspaceCSharp\PriorityQueue\PriorityQueue\bin\Debug\net6.0\PriorityQueue.dll
+D:\WorkspaceCSharp\PriorityQueue\PriorityQueue\bin\Debug\net6.0\PriorityQueue.pdb
+D:\WorkspaceCSharp\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.csproj.AssemblyReference.cache
+D:\WorkspaceCSharp\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkspaceCSharp\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.AssemblyInfoInputs.cache
+D:\WorkspaceCSharp\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.AssemblyInfo.cs
+D:\WorkspaceCSharp\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.csproj.CoreCompileInputs.cache
+D:\WorkspaceCSharp\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.dll
+D:\WorkspaceCSharp\PriorityQueue\PriorityQueue\obj\Debug\net6.0\refint\PriorityQueue.dll
+D:\WorkspaceCSharp\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.pdb
+D:\WorkspaceCSharp\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.genruntimeconfig.cache
+D:\WorkspaceCSharp\PriorityQueue\PriorityQueue\obj\Debug\net6.0\ref\PriorityQueue.dll
